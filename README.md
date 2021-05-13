@@ -1,2 +1,2 @@
-# Gentle-sheep.gtihub.io
+# Gentle-sheep.github.io
 Blog
